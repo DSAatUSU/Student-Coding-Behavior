@@ -15,8 +15,6 @@ This repository contains code and data related to a study on programming keystro
 
 - `feature_selection.py`: Script implementing an ensemble-based feature selection algorithm to extract pertinent features.
 
-- `__pycache__/`: Directory storing Python bytecode files.
-
 - `train_final_model.py`: Script for training the final model after feature selection and hyperparameter optimization.
 
 - `train_random_forest.py`: Script specifically for training the Random Forest classifier.
