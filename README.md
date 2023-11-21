@@ -1,4 +1,4 @@
-# Deciphering Student Coding Behavior
+# Deciphering Student Coding Behavior: Interpretable Keystroke Features and Ensemble Strategies for Grade Prediction
 This repo contains all the code used for the study, "Mining Student Behavior Patterns for Enhanced Performance Prediction in Introductory Programming: Keystroke Analysis and Ensemble Strategies"
 
 ## Overview
