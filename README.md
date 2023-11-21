@@ -33,7 +33,20 @@ Despite challenges such as class imbalance, plagiarism, limited per-assignment d
 
 ## Contribution
 
-This research contributes to the advancement of computer science education, particularly in enhancing the quality of education for undergraduates.
+This research contributes to advancing computer science education, particularly in enhancing the quality of education for undergraduates.
+
+## Citation
+
+Please cite the following paper if you use the data and/or code from this repository.
+
+@inproceedings{khan2023keystroke,
+  title={Deciphering Student Coding Behavior: Interpretable Keystroke Features and Ensemble Strategies for Grade Prediction},
+  author={Khan, Muhammad Fawad Akbar and Edwards, John and Bodily, Pual and Karimi, Hamid},
+  booktitle={2023 IEEE International Conference on Big Data (Big Data)},
+  year={2023},
+  organization={IEEE}
+}
+
 
 ---
 
