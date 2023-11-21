@@ -35,10 +35,6 @@ Despite challenges such as class imbalance, plagiarism, limited per-assignment d
 
 This research contributes to the advancement of computer science education, particularly in enhancing the quality of education for undergraduates.
 
-## Availability
-
-The code and dataset used in this study will be made publicly available upon publication. We encourage collaboration and further exploration of the insights gained from this research.
-
 ---
 
 **Note:** This README provides an overview of the project. For detailed information, refer to the documentation and code files in the repository.
